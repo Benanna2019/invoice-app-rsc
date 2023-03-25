@@ -179,4 +179,3 @@ export async function POST(request: NextRequest) {
 
 - Next auth is awesome for the app dir. I ended up, for this project, using next auth and planetscale.
   - On that note, I could not get next auth to work with `app/api/[...nextauth].ts`. I still had to use `pages/api/[...nextauth].ts`
-# invoice-app-rsc
